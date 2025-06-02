@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio de Métodos Numéricos, un recurso educativo orientado al estudio de técnicas computacionales utilizadas para resolver problemas matemáticos complejos mediante aproximaciones. Este material está dirigido a estudiantes, profesionales y entusiastas de las matemáticas aplicadas, la ingeniería y las ciencias computacionales. Aquí encontrarás contenido teórico, ejemplos prácticos y código bien documentado para desarrollar habilidades sólidas en el uso de métodos numéricos.
 
-#Introducción a los Métodos Numéricos
+# Introducción a los Métodos Numéricos
 
 Los métodos numéricos son herramientas fundamentales para abordar problemas matemáticos que no pueden resolverse de forma analítica o que requieren cálculos extensos. Estas técnicas convierten ecuaciones complejas en soluciones aproximadas utilizando algoritmos adaptados al procesamiento computacional. Son ampliamente aplicados en campos como la predicción meteorológica, el análisis estructural, la simulación física, entre otros.
 
