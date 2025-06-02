@@ -16,7 +16,7 @@ Los métodos numéricos permiten:
 
 ## TEMARIO
 
-- [Tema 1 Introduccion a Metodos Numericos](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Introducci%C3%B3n%20a%20los%20Metodos%20Numericos.md)
+- [Tema 1 Introduccion a Metodos Numericos](https://github.com/SebastianRSS04/Metodos-Numericos-Git/tree/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos)
 - [Tema 2 Metodos de Solucion de Ecuaciones](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Introducci%C3%B3n%20a%20los%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones.md)
 - [Tema 3 Metodos de Sistema de Ecucaciones](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T3%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Sistemas%20de%20Ecuaciones%20Lineales/Introducci%C3%B3n%20a%20los%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Sistemas%20de%20Ecuaciones%20Lineales.md)
 - [Tema 4 Diferenciación e Integración Numerica](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/Introducci%C3%B3n%20a%20la%20DIferenciai%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica.md)
