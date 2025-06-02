@@ -6,7 +6,7 @@ Bienvenido al repositorio de Métodos Numéricos, un recurso educativo orientado
 
 Los métodos numéricos son herramientas fundamentales para abordar problemas matemáticos que no pueden resolverse de forma analítica o que requieren cálculos extensos. Estas técnicas convierten ecuaciones complejas en soluciones aproximadas utilizando algoritmos adaptados al procesamiento computacional. Son ampliamente aplicados en campos como la predicción meteorológica, el análisis estructural, la simulación física, entre otros.
 
-#¿Por qué son relevantes?
+# ¿Por qué son relevantes?
 
 Los métodos numéricos permiten:
 
