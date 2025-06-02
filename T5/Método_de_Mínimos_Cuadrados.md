@@ -1,0 +1,2 @@
+# Método de Mínimos Cuadrados
+
