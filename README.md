@@ -16,7 +16,7 @@ Los métodos numéricos permiten:
 
 ## TEMARIO
 
-- [Tema 1 Introduccion a Metodos Numericos](https://github.com/SebastianRSS04/Metodos-Numericos-Git/tree/3607c8cb18dba9e6ff1d3f7acdf889babec49c55/T1)
+- [Tema 1 Introduccion a Metodos Numericos](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/48246ad343a2584ed7e997c27d5a79716305c68e/T1/Introducci%C3%B3n%20a%20los%20Metodos%20Numericos.md)
 - [Tema 2 Metodos de Solucion de Ecuaciones](https://github.com/SebastianRSS04/Metodos-Numericos-Git/tree/3607c8cb18dba9e6ff1d3f7acdf889babec49c55/T2)
 - [Tema 3 Metodos de Sistema de Ecucaciones](https://github.com/SebastianRSS04/Metodos-Numericos-Git/tree/3607c8cb18dba9e6ff1d3f7acdf889babec49c55/T3)
 - [Tema 4 Diferenciación e Integración Numerica](https://github.com/SebastianRSS04/Metodos-Numericos-Git/tree/3607c8cb18dba9e6ff1d3f7acdf889babec49c55/T4)
