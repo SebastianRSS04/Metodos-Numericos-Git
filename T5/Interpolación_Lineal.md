@@ -1,2 +1,0 @@
-# Interpolación Lineal
-

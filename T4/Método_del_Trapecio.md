@@ -1,2 +1,0 @@
-# Método del Trapecio
-

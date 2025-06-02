@@ -1,1 +1,0 @@
-# Errores por Equivocación

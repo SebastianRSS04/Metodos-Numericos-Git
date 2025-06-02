@@ -1,2 +1,0 @@
-# Método de Pasos Múltiples
-
