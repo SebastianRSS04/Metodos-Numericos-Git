@@ -1,4 +1,6 @@
-### [<- Regresar al Temario](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/README.md)
+### [<- Regresar al Temario](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/README.md)
+
+# Solución de Ecuaciones Diferenciales
 
 ## Introducción 
 
@@ -9,10 +11,10 @@ En métodos numéricos, el estudio de ecuaciones diferenciales se enfoca princip
 La ventaja de estos enfoques radica en su capacidad para resolver problemas complejos que no pueden abordarse por medios puramente analíticos. Además, su implementación computacional los convierte en herramientas esenciales para el desarrollo de simulaciones y análisis de sistemas dinámicos en distintas ramas del conocimiento. Así, el estudio de los métodos numéricos para ecuaciones diferenciales constituye un pilar fundamental en la formación científica y técnica actual.
 
 Existen diversas formas para resolver Ecuaciones Diferenciales, algunas formas son:
-- [Método de Pasos Múltiples](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T6/M%C3%A9todo_de_Pasos_M%C3%BAltiples.md)
-- [Método de un paso](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T6/M%C3%A9todo_de_un_paso.md)
-- [Sistemas de Ecuaciones Diferenciales Ordinarias](https://github.com/SebastianRSS04/Metodos-Numericos-Git/tree/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T6/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias)
-  - [Método de Euler](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T6/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/M%C3%A9todo_de_Euler.md)
-  - [Método de Runge-Kutta](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T6/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/M%C3%A9todo_de_Runge-Kutta.md)
-  - [Método de Taylor](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T6/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/M%C3%A9todo_de_Taylor.md)
+- [Método de Pasos Múltiples](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/M%C3%A9todo%20de%20Pasos%20M%C3%BAltiples.md)
+- [Método de un paso](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/M%C3%A9todo%20de%20un%20Paso.md)
+- [Sistemas de Ecuaciones Diferenciales Ordinarias](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/Introducci%C3%B3n%20a%20los%20SIstemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias.md)
+  - [Método de Euler](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/M%C3%A9todo%20de%20Euler.md)
+  - [Método de Runge-Kutta](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/M%C3%A9todo%20de%20Runge-Kutta.md)
+  - [Método de Taylor](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/M%C3%A9todo%20de%20Taylor.md)
 

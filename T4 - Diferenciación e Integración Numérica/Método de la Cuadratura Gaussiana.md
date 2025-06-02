@@ -122,4 +122,4 @@ public class GaussianQuadrature {
 ```text
 Integral aproximada: 1.718
 ```
-### [<- T4 - Diferenciación e Integración Numérica ](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T4/Introducci%C3%B3n%20a%20la%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica.md)
+### [<- T4 - Diferenciación e Integración Numérica ](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/Introducci%C3%B3n%20a%20la%20DIferenciai%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica.md)

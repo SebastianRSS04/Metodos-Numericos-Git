@@ -1,8 +1,10 @@
 # Tema 4: Método de Simpson 1/3
 
-## Introducción El método de Simpson 1/3 es una técnica de integración numérica qui permite aproximar el valor de una integral definida a partir de una combinación of valores de la función evaluados en puntos igualmente espaciados y se basa en aproximar el área bajo la curva mediante
+## Introducción 
 
-ar la función dentro de subintervalos. Para aplicar esta técnica, el intervalo de integración se divide en un número par de segmentos (es decir, un número impar de puntos), y se utiliza una fórmula específica que pondera los extremos y los puntos medios del intervalo. Esta fórmula proporciona una mayor precisión que la del método del trapecio, especialmente si la función se comporta de manera suave.
+El método de Simpson 1/3 es una técnica de integración numérica qui permite aproximar el valor de una integral definida a partir de una combinación de valores de la función evaluados en puntos igualmente espaciados y se basa en aproximar el área bajo la curva mediante la función dentro de subintervalos. 
+
+Para aplicar esta técnica, el intervalo de integración se divide en un número par de segmentos (es decir, un número impar de puntos), y se utiliza una fórmula específica que pondera los extremos y los puntos medios del intervalo. Esta fórmula proporciona una mayor precisión que la del método del trapecio, especialmente si la función se comporta de manera suave.
 
 Gracias a su simplicidad y precisión, el método de Simpson 1/3 es ampliamente usado en aplicaciones de ingeniería, física y ciencias aplicadas. No obstante, su correcta implementación requiere que se cumplan ciertas condiciones, como el número par de subintervalos, y puede perder precisión si la función presenta muchos cambios bruscos o discontinuidades dentro del intervalo.
 
@@ -142,4 +144,4 @@ public class SimpsonOneThird {
 ```text
 Integral aproximada: 1.718
 ```
-### [<- T4 - Diferenciación e Integración Numérica ](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/Introducci%C3%B3n%20a%20la%20DIferenciai%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica.md)
+### [<- T4 - Diferenciación e Integración Numérica ](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/Introducci%C3%B3n%20a%20la%20DIferenciai%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica.md)

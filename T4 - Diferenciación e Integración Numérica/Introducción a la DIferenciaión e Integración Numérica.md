@@ -1,4 +1,4 @@
-### [<- Regresar al Temario](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/README.md)
+### [<- Regresar al Temario](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/README.md)
 
 # Tema 4: Diferenciación e Integración Numérica 
 
@@ -23,7 +23,7 @@ es esencial para quienes trabajan con datos, simulaciones o modelos
 matemáticos en diversas disciplinas.
 
 A continuación, conoce los diferentes métodos:
-- [Método de Simpson 1/3](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T4/M%C3%A9todo_de_Simpson_13.md)
-- [Método de Simpson 3/8](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T4/M%C3%A9todo_de_Simpson_38.md)
-- [Método de la Cuadratura Gaussiana](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T4/M%C3%A9todo_de_la_Cuadratura_Gaussiana.md)
-- [Método del Trapecio](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T4/M%C3%A9todo_del_Trapecio.md)
+- [Método de Simpson 1/3](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%20%E2%85%93.md)
+- [Método de Simpson 3/8](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%20%E2%85%9C.md)
+- [Método de la Cuadratura Gaussiana](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20la%20Cuadratura%20Gaussiana.md)
+- [Método del Trapecio](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20del%20Trapecio.md)

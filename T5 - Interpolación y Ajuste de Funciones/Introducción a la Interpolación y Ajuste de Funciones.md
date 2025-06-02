@@ -1,4 +1,4 @@
-### [<- Regresar al Temario](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/README.md)
+### [<- Regresar al Temario](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/README.md)
 
 # Tema 5: Interpolación y Ajuste de Funciones 
 
@@ -13,9 +13,9 @@ Por otro lado, el ajuste de funciones (también llamado regresión) no busca nec
 Ambas técnicas permiten extrapolar o predecir valores en puntos donde no se tienen mediciones, facilitar cálculos posteriores y analizar el comportamiento de fenómenos complejos. El conocimiento y aplicación adecuada de estos métodos son esenciales para realizar modelos numéricos precisos, tomar decisiones informadas basadas en datos, y construir soluciones computacionales robustas en una amplia gama de disciplinas científicas y tecnológicas.
 
 Existen muchos métodos y tipos de interpolación. Algunos de esos son:
-- [Interpolación Lineal](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T5/Interpolaci%C3%B3n_Lineal.md)
-- [Interpolación Polinómica](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T5/Interpolaci%C3%B3n_Polin%C3%B3mica.md)
-- [Método de Regresión](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T5/M%C3%A9todo_de_Regresi%C3%B3n.md)
-- [Método de Correlación](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T5/M%C3%A9todo_de_Correlaci%C3%B3n.md)
-- [Método de Mínimos Cuadrados](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/c9829f46be4ec2aa47381fa4eb9504aa16c8d72e/T5/M%C3%A9todo_de_M%C3%ADnimos_Cuadrados.md)
+- [Interpolación Lineal](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/Interpolaci%C3%B3n%20Lineal.md)
+- [Interpolación Polinómica](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/Interpolaci%C3%B3n%20Polin%C3%B3mica.md)
+- [Método de Regresión](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/M%C3%A9todo%20de%20Regresi%C3%B3n.md)
+- [Método de Correlación](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/M%C3%A9todo%20de%20Correlaci%C3%B3n.md)
+- [Método de Mínimos Cuadrados](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/M%C3%A9todo%20de%20M%C3%ADnimos%20Cuadrados.md)
 
