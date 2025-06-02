@@ -1,4 +1,4 @@
-### [<- Regresar al Temario](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/Introducci%C3%B3n%20a%20los%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones.md)
+### [<- Regresar al Temario](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/README.md)
 
 # Tema 2: Métodos de Solución de Ecuaciones 
 
@@ -15,8 +15,8 @@ En este sentido, la elección del método adecuado depende tanto de la naturalez
 Estos métodos son aplicables a una gran variedad de problemas en física, ingeniería, economía, química y otras ciencias. Desde la predicción de puntos de equilibrio hasta el diseño de sistemas de control, las raíces de ecuaciones representan soluciones críticas. Por ello, comprender su fundamento y comportamiento es indispensable para todo profesional que trabaje con modelos matemáticos.
 
 Algunos de los métodos son:
-- [Método de Bisección](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Bisecci%C3%B3n.md)
-- [Método de Newton-Rhapson](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Newton-Rhapson.md)
-- [Método de Punto Fijo](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Punto%20Fijo.md)
-- [Método de la Regla Falsa](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20la%20Regla%20Falsa.md)
-- [Método de la Secante](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/ce2d60bd3530bdd5b33752fc08ea9a856a6a37e5/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20la%20Secante.md)
+- [Método de Bisección](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Bisecci%C3%B3n.md)
+- [Método de Newton-Rhapson](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Newton-Rhapson.md)
+- [Método de Punto Fijo](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Punto%20Fijo.md)
+- [Método de la Regla Falsa](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20la%20Regla%20Falsa.md)
+- [Método de la Secante](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20la%20Secante.md)

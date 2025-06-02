@@ -1,4 +1,4 @@
-### [Regresar a Repositorio Principal](https://github.com/SebastianRSS04/Metodos-Numericos-Git.git)
+### [Regresar a Repositorio Principal](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/README.md)
 
 # Tema 1: Introducción a los Métodos Numéricos
 
@@ -21,11 +21,11 @@ Comprender estos conceptos es fundamental para evaluar la calidad de los resulta
 
 Susbtemas presentes en el Tema:
 
-- [Error Numérico Total](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/a71a2dc1499b577788e5bf68a84f12ae2fad48cb/T1/Error%20Num%C3%A9rico%20Total.md)
-- [Error de Redondeo](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/a71a2dc1499b577788e5bf68a84f12ae2fad48cb/T1/Error%20de%20Redondeo.md)
-- [Error de Truncamiento](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/a71a2dc1499b577788e5bf68a84f12ae2fad48cb/T1/Error%20de%20Truncamiento.md)
-- [Error por Cancelación Numérica](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/a71a2dc1499b577788e5bf68a84f12ae2fad48cb/T1/Error%20por%20Cancelaci%C3%B3n%20Num%C3%A9rica.md)
-- [Errores de Formulación](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/a71a2dc1499b577788e5bf68a84f12ae2fad48cb/T1/Errores%20de%20Formulaci%C3%B3n.md)
-- [Errores por Equivocación](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/a71a2dc1499b577788e5bf68a84f12ae2fad48cb/T1/Errores%20por%20Equivocaci%C3%B3n.md)
-- [Incertidumbre en los Datos](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/a71a2dc1499b577788e5bf68a84f12ae2fad48cb/T1/Incertidumbre%20en%20los%20Datos.md)
+- [Error Numérico Total](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20Num%C3%A9rico%20Total.md)
+- [Error de Redondeo](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20de%20Redondeo.md)
+- [Error de Truncamiento](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20por%20Truncamiento.md)
+- [Error por Cancelación Numérica](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20por%20Cancelaci%C3%B3n%20Num%C3%A9rica.md)
+- [Errores de Formulación](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20de%20Formulaci%C3%B3n.md)
+- [Errores por Equivocación](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20por%20Equivocaci%C3%B3n.md)
+- [Incertidumbre en los Datos](https://github.com/SebastianRSS04/Metodos-Numericos-Git/blob/660d16f952064f0ad7c71e139136c1df3cc575f3/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Incertidumbre%20en%20los%20Datos.md)
 
